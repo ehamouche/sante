@@ -1,0 +1,198 @@
+  #titre_header {
+    text-align:                 center;
+    color:                      #138147;
+    font-size:                  35px;
+    padding-right: : 100px;
+
+  }
+
+#ma_nav {
+     width:                     100%;
+     border:                    1px solid #999;
+     margin:                    10px 0 0 0;
+     background-color:          #138147;
+     color:                     azure;
+     overflow:                  hidden;
+     text-align:                left;
+
+  }
+
+
+  section {
+    padding:                    30px 30px 20px 20px;
+    display:                    block;
+  }
+footer{
+  background-color:#138147;
+  color: white;
+  text-align: center;
+  font-size: 170%;
+  
+}
+
+  a:-webkit-any-link {
+    color: white;
+    text-decoration-line: inherit;
+  }
+
+  #ma_nav li :hover
+{
+  text-decoration: underline;
+}
+
+#nav_societe{
+  display: inline;
+  margin:30px;
+ color: white;
+font-size: 150%;
+ cursor:  pointer;
+
+}
+
+#nav_générateur{
+  display: inline;
+  margin:30px;
+  color:white;
+  font-size: 150%;
+  cursor:  pointer;
+
+}
+
+#nav_carnet{
+  display: inline;
+  margin:30px;
+  color: white;
+  font-size: 150%;
+  cursor:  pointer;
+
+}
+
+#nav_inscription{
+  display: inline;
+  margin:30px;
+  color:white;
+  font-size: 150%;
+  cursor:  pointer;
+
+}
+#nav_connexion{
+  display: inline;
+  margin:30px;
+  color:white;
+  font-size: 150%;
+  cursor:  pointer;
+
+}
+
+#nav_securite:hover{
+  text-decoration:underline;
+}
+
+
+#nav_societe:hover{
+  text-decoration:underline;
+}
+
+
+#nav_produits:hover{
+  text-decoration:underline;
+}
+#nav_connexion:hover{
+  text-decoration:underline;
+}
+#nav_inscription:hover{
+  text-decoration:underline;
+}
+#générateur{
+  display: none;
+  text-align: center;
+  }
+
+#carnet_de_santé{
+  display: none;
+}
+#connexion{
+  display: none;
+  text-align: center;
+  color: #138147;
+}
+#inscription{
+  display: none;
+  text-align: center;
+  color: #138147;
+}
+#titre_societe{
+  text-align: center;
+  font-size: 300%;
+  font-family:verdana;
+}
+
+#titre_formulaire{
+  text-align: center;
+  font-size: 200%;
+  font-family:verdana;
+}
+
+#img_detecteur{
+
+  width: 100px;
+  height: 100px;
+}
+#img_detecteurdouverture{
+
+  width: 100px;
+  height: 100px;
+}
+#img_bac{
+
+  width: 100px;
+  height: 100px;
+}
+.police_produits{
+  font-size: 120%;
+
+}
+#div_detecteur{
+  width: 33%;
+  height: auto;
+  padding: 10px;
+  float: left;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#div_porte{
+  width: 33%;
+  height: auto;
+  padding: 10px;
+  float: left;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#div_bac{
+  width: 33%;
+  height: auto;
+  padding: 10px;
+  float: left;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#img_carte{
+  width: 230px;
+  height: 230px;
+  float: right;
+}
+#societe
+{
+color:#black;
+}
+#image{
+  width: 300px;
+ height: 250px;
+
+}

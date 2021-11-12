@@ -1,0 +1,3 @@
+Pour générer un QR Code nous avons décidé de choisir le PHP comme language de programmation. Nous allons pouvoir nous servir de la librairie PHP QR Code qui est une librairie LGCPL pour le générer facilement avec le PHP.
+
+Avec cette librairie on pourra choisir plusieurs tailles du code entre 1 et 40, et de sauvegarder l'image QR Code en PNG ou JPG.
